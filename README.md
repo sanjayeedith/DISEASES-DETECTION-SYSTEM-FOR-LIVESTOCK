@@ -21,3 +21,9 @@ In addition to conventional approaches and molecular techniques,
 sensor-based monitoring systems have become effective instruments for ongoing 
 animal health surveillance. Wearable technology with built-in sensors may 
 track important metrics like heart rate, body temperature, and activity patterns.
+
+
+You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.23.222:8501
