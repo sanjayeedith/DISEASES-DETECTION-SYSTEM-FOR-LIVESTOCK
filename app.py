@@ -4,7 +4,7 @@ import joblib
 import colorsys
 
 # Load the trained decision tree model
-model_filename = r"D:\Patent\animal_decision_tree_model.joblib"
+model_filename = "animal_decision_tree_model.joblib"
 model = joblib.load(model_filename)
 
 # Set the background color
