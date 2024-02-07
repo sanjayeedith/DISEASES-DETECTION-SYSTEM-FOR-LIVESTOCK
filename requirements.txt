@@ -1,2 +1,4 @@
-joblib
+numpy 
+pandas
 sklearn
+joblib
