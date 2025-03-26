@@ -12,9 +12,6 @@ This project aims to predict the health status of livestock animals based on a s
 - `requirements.txt`: List of Python dependencies.
 
 ## Setup
-
 1. Install the required dependencies:
-
- -- pip install streamlit
- cmd:
-  	streamlit run app.py
+cmd: $pip install streamlit
+     $streamlit run app.py
